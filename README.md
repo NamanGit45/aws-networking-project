@@ -1,4 +1,5 @@
-*🛠️ AWS Networking Project with VPC, Load Balancer, NAT Gateway & Auto Scaling*
+#🛠️ AWS Networking Project with VPC, Load Balancer, NAT Gateway & Auto Scaling
+
 📌 Overview
 This project demonstrates a production-like AWS networking setup designed for high availability, scalability, and security. The architecture is implemented using AWS services such as VPC, Subnets, NAT Gateway, Load Balancer, Auto Scaling Group, and Security Groups.
 
